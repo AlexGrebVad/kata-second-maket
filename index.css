@@ -15,7 +15,7 @@
 
 body {
   width: 320px;
-  max-height: 1024px;
+  
 
   box-shadow: 16px 0px 52px 0px rgba(14, 24, 80, 0.2),
     -2px 0px 4px 0px rgba(69, 79, 126, 0.02);
@@ -25,6 +25,7 @@ body {
 nav {
   display: flex;
   flex-direction: column;
+  max-height: 1440px;
 }
 /* стили шапки */
 .head {
